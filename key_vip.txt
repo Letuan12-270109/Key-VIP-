@@ -12,13 +12,8 @@
     },
     {
       "device_id": "DV_662ff94fed1441aa",
-      "ten_key": "TLTOOL",
-      "time": "365"
-    }
-    {
-      "device_id": "DV_662ff94fed1441aa",
       "ten_key": "TLTOOL_12",
-      "time": "60"
+      "time": "365"
     }
   ]
 }

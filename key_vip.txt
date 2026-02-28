@@ -6,8 +6,8 @@
       "time": "30"
     },
     {
-      "device_id": "DV_112233445566",
-      "ten_key": "pro7",
+      "device_id": "DV_a838d6ef3b68433e",
+      "ten_key": "Alex_ga_xoa_ff_đi",
       "time": "7"
     },
     {
